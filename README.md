@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IWayanSugiana
-- 👀 I’m interested in mobile apps development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on mobile apps project
+- 👀 I’m interested in web apps development
+- 💞️ I’m looking to collaborate on web apps development
 - 📫 How to reach me :
       - email: wayansugiana777@gmail.com 
 
